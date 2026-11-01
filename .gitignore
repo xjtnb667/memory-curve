@@ -1,0 +1,11 @@
+# 数据文件不进仓库（那是每个人自己的库）
+*.jsonl
+state.json
+rules.md
+archive/
+.memory-curve/
+memory/
+__pycache__/
+*.pyc
+*.tmp
+.venv/
